@@ -92,12 +92,14 @@ status: "continuously training"
 checkpoint: CropGuard.pth
 ─────────────────────────
 task        multi-crop disease detection
-backbone    ConvNeXt
+backbone    ConvNeXt-Tiny (fine-tuned)
 classes     38
-species     5+
+species     5+ (Apple, Corn, Grape, Tomato, Potato)
 accuracy    98.0%
 explain     Grad-CAM ✓
 interface   Streamlit
+inference   < 3s
+team        6-member · Apr 2026
 ```
 
 </td>
@@ -109,9 +111,12 @@ checkpoint: BrainTumorNet.pth
 task        MRI tumor classification
 backbone    VGG16
 technique   transfer learning
+optimizer   Adam (lr=0.0001)
+epochs      25
 accuracy    ~95.0%
 served_via  Flask
 vision      OpenCV
+team        6-member · Jul 2024
 ```
 
 </td>
@@ -120,6 +125,19 @@ vision      OpenCV
 
 <div align="center">
 <sub>full source → <a href="https://github.com/tribhu05?tab=repositories">github.com/tribhu05</a></sub>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 🎓 Weights Loaded — Certifications
+
+<div align="center">
+
+![](https://img.shields.io/badge/Oracle-OCI_2025_AI_Foundations_Associate-8E2DE2?style=flat-square&labelColor=0a0014)
+![](https://img.shields.io/badge/NPTEL-Elite_Cloud_Computing-00C9FF?style=flat-square&labelColor=0a0014)
+![](https://img.shields.io/badge/Coursera-Applied_ML_in_Python-FF2E92?style=flat-square&labelColor=0a0014)
+![](https://img.shields.io/badge/Microsoft_%26_LinkedIn-Data_Analysis_Essentials-8E2DE2?style=flat-square&labelColor=0a0014)
+
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
