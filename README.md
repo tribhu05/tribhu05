@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there! 👋 I'm Tanuj
+# Hey there! 👋 I'm Tribhuwan
 
 <a href="https://github.com/tribhu05">
   <img src="https://readme-typing-svg.demolab.com/?lines=AI%2FML+Student+%40+VIT+Bhopal;Building+CropGuard+%26+Brain+Tumor+Detection;Competitive+Programmer+(C%2B%2B);Making+doodle+animation+videos;Prepping+for+GATE+2027&font=Fira+Code&center=true&width=520&height=45&color=58a6ff&vCenter=true&size=20"/>
