@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=220&section=header&text=TRIBHUWAN.exe&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%3E%20initializing_ai_engineer.py&descAlignY=62&descSize=18&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=00E5FF&background=00000000&center=true&vCenter=true&multiline=true&width=760&height=100&lines=%3E+loading+model%3A+tribhuwan_singh.pth+...+done;%3E+device%3A+cuda%3A0+%7C+status%3A+training;%3E+specialization%3A+Computer+Vision+%2F+Deep+Learning;%3E+ready+for+inference." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=00E5FF&background=00000000&center=true&vCenter=true&multiline=true&width=760&height=140&lines=%3E+loading+model%3A+tribhuwan_singh.pth+...+done;%3E+device%3A+cuda%3A0+%7C+status%3A+training;%3E+domain%3A+computer+vision+%2F+deep+learning;%3E+ready+for+inference." />
 
 </div>
 
@@ -69,6 +69,8 @@ status: "continuously training"
 
 ## 🧠 Forward Pass — What I Build
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=500&color=FF2E92&background=00000000&center=true&vCenter=true&width=500&lines=%3E+mapping+focus+areas..." />
+
 ```
    [ AI / ML ]───▶[ Computer Vision ]───▶[ Explainable Models ]
         │                                          │
@@ -79,6 +81,8 @@ status: "continuously training"
 <br>
 
 ## 📦 Model Checkpoints — Featured Projects
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=500&color=00E5FF&background=00000000&center=true&vCenter=true&width=500&lines=%3E+loading+checkpoints+from+disk..." />
 
 <table width="100%">
 <tr>
@@ -155,9 +159,7 @@ vision      OpenCV
 
 <div align="center">
 
-```
->>> print("still training. still shipping.")
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=800&color=00E5FF&background=00000000&center=true&vCenter=true&width=550&lines=%3E%3E%3E+print(%22still+training.+still+shipping.%22)" />
 
 </div>
 
