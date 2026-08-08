@@ -4,16 +4,6 @@
 
 <br>
 
-<a href="https://github.com/tribhu05">
-  <img src="https://img.shields.io/badge/GitHub-tribhu05-00F5D4?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" />
-</a>
-<a href="https://linkedin.com/in/tribhuwan5050">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" />
-</a>
-<a href="https://leetcode.com/u/t7_b5uwan">
-  <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d0d0d" />
-</a>
-
 <br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=650&lines=Building+AI+that+sees+%E2%80%94+Computer+Vision;Training+deep+models+with+PyTorch+%2B+TensorFlow;Solving+DSA+in+C%2B%2B%2C+one+problem+at+a+time;Shipping+practical%2C+explainable+ML+systems" />
