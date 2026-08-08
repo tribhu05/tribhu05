@@ -21,9 +21,9 @@ status: "continuously training"
 
 <div align="center">
 
-<a href="https://github.com/tribhu05"><img src="https://img.shields.io/badge/%3C%2F%3E_GITHUB-tribhu05-8E2DE2?style=for-the-badge&labelColor=0a0014" /></a>
-<a href="https://linkedin.com/in/tribhuwan5050"><img src="https://img.shields.io/badge/IN_LINKEDIN-connect-00C9FF?style=for-the-badge&labelColor=0a0014" /></a>
-<a href="https://leetcode.com/u/t7_b5uwan"><img src="https://img.shields.io/badge/%E2%9A%A1_LEETCODE-solve-FF2E92?style=for-the-badge&labelColor=0a0014" /></a>
+<a href="https://github.com/tribhu05"><img src="https://img.shields.io/badge/-tribhu05-8E2DE2?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2" /></a>
+<a href="https://linkedin.com/in/tribhuwan5050"><img src="https://img.shields.io/badge/-tribhuwan5050-00C9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00C9FF" /></a>
+<a href="https://leetcode.com/u/t7_b5uwan"><img src="https://img.shields.io/badge/-t7__b5uwan-FF2E92?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FF2E92" /></a>
 
 </div>
 
@@ -145,9 +145,9 @@ vision      OpenCV
 
 <div align="center">
 
-<a href="https://github.com/tribhu05"><img src="https://img.shields.io/badge/-tribhu05-0a0014?style=flat-square&logo=github&logoColor=00E5FF" /></a>
-<a href="https://linkedin.com/in/tribhuwan5050"><img src="https://img.shields.io/badge/-tribhuwan5050-0a0014?style=flat-square&logo=linkedin&logoColor=00C9FF" /></a>
-<a href="https://leetcode.com/u/t7_b5uwan"><img src="https://img.shields.io/badge/-t7__b5uwan-0a0014?style=flat-square&logo=leetcode&logoColor=FF2E92" /></a>
+<a href="https://github.com/tribhu05"><img src="https://img.shields.io/badge/-tribhu05-181717?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
+<a href="https://linkedin.com/in/tribhuwan5050"><img src="https://img.shields.io/badge/-tribhuwan5050-181717?style=for-the-badge&logo=linkedin&logoColor=00C9FF" /></a>
+<a href="https://leetcode.com/u/t7_b5uwan"><img src="https://img.shields.io/badge/-t7__b5uwan-181717?style=for-the-badge&logo=leetcode&logoColor=FF2E92" /></a>
 
 </div>
 
