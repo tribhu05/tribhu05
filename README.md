@@ -59,9 +59,6 @@ Outside of coursework, I run **Nexora**, a YouTube channel where I write and ani
 <div align="center">
 
 <!-- Swap in your real links below -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](#)
-[![YouTube](https://img.shields.io/badge/Nexora-FF0000?style=flat&logo=youtube&logoColor=white)](#)
 
 </div>
 
