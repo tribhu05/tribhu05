@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=220&section=header&text=Tribhuwan%20Singh&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%3E%20initializing_ai_engineer.py&descAlignY=62&descSize=18&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=220&section=header&text=Tribhuwan%20Singh&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%2FML%20Undergraduate%20%7C%20Software%20Engineer&descAlignY=62&descSize=18&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=00E5FF&background=00000000&center=true&vCenter=true&width=700&height=50&lines=AI%2FML+Undergraduate+%40+VIT+Bhopal;Building+in+Computer+Vision+%26+Deep+Learning;Stack%3A+Python%2C+C%2B%2B%2C+PyTorch%2C+TensorFlow%2C+Flask;Status%3A+shipping+projects%2C+ready+for+inference." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=00E5FF&background=00000000&center=true&vCenter=true&width=700&height=50&lines=Computer+Vision+%26+Deep+Learning;Python+%C2%B7+C%2B%2B+%C2%B7+PyTorch+%C2%B7+TensorFlow+%C2%B7+Flask;Building+end-to-end+deep+learning+applications." />
 
 </div>
 
@@ -184,4 +184,3 @@ MRI tumor classification
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00C9FF,50:4A00E0,100:8E2DE2&height=120&section=footer" width="100%"/>
-
