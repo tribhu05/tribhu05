@@ -72,23 +72,7 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">🖼️<br><b>Computer Vision</b></td>
-<td align="center">→</td>
-<td align="center">🧪<br><b>Explainable Models</b></td>
-</tr>
-<tr>
-<td align="center">↓</td>
-<td></td>
-<td align="center">↓</td>
-</tr>
-<tr>
-<td align="center">⚙️<br><b>C++ / DSA</b></td>
-<td align="center">←</td>
-<td align="center">🛠️<br><b>Software Engineering</b></td>
-</tr>
-</table>
+<img src="./assets/build-flow.svg" width="100%" />
 
 </div>
 
