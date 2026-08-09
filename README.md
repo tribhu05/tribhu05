@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=220&section=header&text=Tribhuwan%20Singh&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%3E%20initializing_ai_engineer.py&descAlignY=62&descSize=18&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=00E5FF&background=00000000&center=true&vCenter=true&multiline=true&width=820&height=150&lines=%3E+loading+profile%3A+tribhuwan_singh.pth+...+done;%3E+role%3A+AI%2FML+undergrad+%40+VIT+Bhopal+%7C+CGPA%3A+8.36;%3E+stack%3A+Python%2C+C%2B%2B%2C+PyTorch%2C+TensorFlow%2C+Flask;%3E+status%3A+building+CV%2FDL+projects+%7C+ready+for+inference." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=700&color=00E5FF&background=00000000&center=true&vCenter=true&multiline=true&width=850&height=160&lines=%3E+loading+profile%3A+tribhuwan_singh.pth+...+done;++++%3E+role%3A+AI%2FML+Undergraduate+%40+VIT+Bhopal;++%3E+stack%3A+Python%2C+C%2B%2B%2C+PyTorch%2C+TensorFlow%2C+Flask;++++++++%3E+status%3A+building+CV%2FDL+projects%2C+ready+for+inference." />
 
 </div>
 
