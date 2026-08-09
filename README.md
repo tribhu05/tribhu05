@@ -80,6 +80,14 @@
 
 ## 📦 Featured Projects
 
+<div align="center">
+
+<img src="./assets/project-stats.svg" width="100%" />
+
+</div>
+
+<br>
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
@@ -156,6 +164,10 @@ MRI tumor classification
 ## 📡 Connect
 
 <div align="center">
+
+<img src="./assets/connect-pulse.svg" width="100%" />
+
+<br>
 
 <a href="https://github.com/tribhu05"><img src="https://img.shields.io/badge/GitHub-tribhu05-181717?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
 <a href="https://linkedin.com/in/tribhuwan5050"><img src="https://img.shields.io/badge/LinkedIn-tribhuwan5050-181717?style=for-the-badge&logo=linkedin&logoColor=00C9FF" /></a>
