@@ -1,0 +1,37 @@
+<svg viewBox="0 0 900 170" xmlns="http://www.w3.org/2000/svg" font-family="JetBrains Mono, monospace">
+  <defs>
+    <linearGradient id="pulseGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8E2DE2"/>
+      <stop offset="50%" stop-color="#4A00E0"/>
+      <stop offset="100%" stop-color="#00C9FF"/>
+    </linearGradient>
+    <filter id="coreGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="170" fill="#0a0014"/>
+
+  <!-- radiating pulse rings -->
+  <circle cx="450" cy="70" r="10" fill="none" stroke="url(#pulseGrad)" stroke-width="2">
+    <animate attributeName="r" from="10" to="80" dur="2.4s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" from="0.8" to="0" dur="2.4s" begin="0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="450" cy="70" r="10" fill="none" stroke="url(#pulseGrad)" stroke-width="2">
+    <animate attributeName="r" from="10" to="80" dur="2.4s" begin="0.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" from="0.8" to="0" dur="2.4s" begin="0.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="450" cy="70" r="10" fill="none" stroke="url(#pulseGrad)" stroke-width="2">
+    <animate attributeName="r" from="10" to="80" dur="2.4s" begin="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" from="0.8" to="0" dur="2.4s" begin="1.6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- core -->
+  <circle cx="450" cy="70" r="9" fill="url(#pulseGrad)" filter="url(#coreGlow)"/>
+
+  <text x="450" y="140" text-anchor="middle" fill="#9ca3af" font-size="14">Open to collaborations &amp; opportunities</text>
+</svg>
