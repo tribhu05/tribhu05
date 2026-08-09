@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=220&section=header&text=Tribhuwan%20Singh&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%2FML%20Undergraduate%20%7C%20Software%20Engineer&descAlignY=62&descSize=18&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=00E5FF&background=00000000&center=true&vCenter=true&width=700&height=50&lines=Computer+Vision+%26+Deep+Learning;Python+%C2%B7+C%2B%2B+%C2%B7+PyTorch+%C2%B7+TensorFlow+%C2%B7+Flask;Building+end-to-end+deep+learning+applications." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=00E5FF&background=00000000&center=true&vCenter=true&width=700&height=50&lines=Computer+Vision+%26+Deep+Learning;Building+end-to-end+deep+learning+applications." />
+
+<img src="./assets/tech-marquee.svg" width="100%" />
 
 </div>
 
