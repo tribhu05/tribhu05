@@ -1,21 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=220&section=header&text=TRIBHUWAN.exe&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%3E%20initializing_ai_engineer.py&descAlignY=62&descSize=18&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=220&section=header&text=Tribhuwan%20Singh&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%26%20Deep%20Learning&descAlignY=62&descSize=18&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=00E5FF&background=00000000&center=true&vCenter=true&multiline=true&width=760&height=140&lines=%3E+loading+model%3A+tribhuwan_singh.pth+...+done;%3E+device%3A+cuda%3A0+%7C+status%3A+training;%3E+domain%3A+computer+vision+%2F+deep+learning;%3E+ready+for+inference." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=00E5FF&background=00000000&center=true&vCenter=true&multiline=true&width=760&height=70&lines=Building+in+Computer+Vision+%26+Deep+Learning;Currently%3A+training+models%2C+shipping+projects." />
 
 </div>
 
 <br>
 
-```yaml
-# config.yaml — model card
-name: Tribhuwan Singh
-role: AI/ML Undergraduate
-architecture: [ C++, Python, Java, JavaScript ]
-domains: [ Computer Vision, Deep Learning, DSA, Software Engineering ]
-status: "continuously training"
-```
+<table align="center">
+<tr><td>
+
+**Role** — AI/ML Undergraduate<br>
+**Languages** — C++ · Python · Java · JavaScript<br>
+**Focus** — Computer Vision · Deep Learning · DSA · Software Engineering
+
+</td></tr>
+</table>
 
 <br>
 
@@ -31,27 +32,27 @@ status: "continuously training"
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 🧬 Neural Stack
+## 🧬 Tech Stack
 
 <table width="100%">
 <tr>
 <td width="33%" valign="top" align="center">
 
-**`layer_1 :: languages`**
+**Languages**
 <br><br>
 <img src="https://skillicons.dev/icons?i=cpp,py,java,js,html,css&theme=dark" />
 
 </td>
 <td width="33%" valign="top" align="center">
 
-**`layer_2 :: deep_learning`**
+**Deep Learning**
 <br><br>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
 
 </td>
 <td width="33%" valign="top" align="center">
 
-**`layer_3 :: deployment`**
+**Tools & Deployment**
 <br><br>
 <img src="https://skillicons.dev/icons?i=flask,git,github,vscode,jupyter&theme=dark" />
 
@@ -67,57 +68,62 @@ status: "continuously training"
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 🧠 Forward Pass — What I Build
+## 🧠 What I Build
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=500&color=FF2E92&background=00000000&center=true&vCenter=true&width=500&lines=%3E+mapping+focus+areas..." />
+<div align="center">
 
-```
-   [ AI / ML ]───▶[ Computer Vision ]───▶[ Explainable Models ]
-        │                                          │
-        ▼                                          ▼
-   [ C++ / DSA ]◀──────────[ Software Engineering ]
-```
+<table>
+<tr>
+<td align="center">🖼️<br><b>Computer Vision</b></td>
+<td align="center">→</td>
+<td align="center">🧪<br><b>Explainable Models</b></td>
+</tr>
+<tr>
+<td align="center">↓</td>
+<td></td>
+<td align="center">↓</td>
+</tr>
+<tr>
+<td align="center">⚙️<br><b>C++ / DSA</b></td>
+<td align="center">←</td>
+<td align="center">🛠️<br><b>Software Engineering</b></td>
+</tr>
+</table>
+
+</div>
 
 <br>
 
-## 📦 Model Checkpoints — Featured Projects
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=500&color=00E5FF&background=00000000&center=true&vCenter=true&width=500&lines=%3E+loading+checkpoints+from+disk..." />
+## 📦 Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-```
-checkpoint: CropGuard.pth
-─────────────────────────
-task        multi-crop disease detection
-backbone    ConvNeXt-Tiny (fine-tuned)
-classes     38
-species     5+ (Apple, Corn, Grape, Tomato, Potato)
-accuracy    98.0%
-explain     Grad-CAM ✓
-interface   Streamlit
-inference   < 3s
-team        6-member · Apr 2026
-```
+### 🌿 CropGuard
+Multi-crop disease detection
+
+![ConvNeXt-Tiny](https://img.shields.io/badge/backbone-ConvNeXt--Tiny-8E2DE2?style=flat-square&labelColor=0a0014)
+![Accuracy](https://img.shields.io/badge/accuracy-98.0%25-00C9FF?style=flat-square&labelColor=0a0014)
+![Grad-CAM](https://img.shields.io/badge/explainability-Grad--CAM-FF2E92?style=flat-square&labelColor=0a0014)
+
+- 38 classes across 5+ species (Apple, Corn, Grape, Tomato, Potato)
+- Served via Streamlit, inference under 3s
+- Built with a 6-member team · Apr 2026
 
 </td>
 <td width="50%" valign="top">
 
-```
-checkpoint: BrainTumorNet.pth
-─────────────────────────
-task        MRI tumor classification
-backbone    VGG16
-technique   transfer learning
-optimizer   Adam (lr=0.0001)
-epochs      25
-accuracy    ~95.0%
-served_via  Flask
-vision      OpenCV
-team        6-member · Jul 2024
-```
+### 🧠 BrainTumorNet
+MRI tumor classification
+
+![VGG16](https://img.shields.io/badge/backbone-VGG16-8E2DE2?style=flat-square&labelColor=0a0014)
+![Accuracy](https://img.shields.io/badge/accuracy-~95.0%25-00C9FF?style=flat-square&labelColor=0a0014)
+![Flask](https://img.shields.io/badge/served_via-Flask-FF2E92?style=flat-square&labelColor=0a0014)
+
+- Transfer learning, Adam optimizer (lr=0.0001), 25 epochs
+- Preprocessing via OpenCV
+- Built with a 6-member team · Jul 2024
 
 </td>
 </tr>
@@ -129,7 +135,7 @@ team        6-member · Jul 2024
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 🎓 Weights Loaded — Certifications
+## 🎓 Certifications
 
 <div align="center">
 
@@ -142,7 +148,7 @@ team        6-member · Jul 2024
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 📊 Training Metrics — GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -167,17 +173,13 @@ team        6-member · Jul 2024
 
 <div align="center">
 
-<a href="https://github.com/tribhu05"><img src="https://img.shields.io/badge/-tribhu05-181717?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
-<a href="https://linkedin.com/in/tribhuwan5050"><img src="https://img.shields.io/badge/-tribhuwan5050-181717?style=for-the-badge&logo=linkedin&logoColor=00C9FF" /></a>
-<a href="https://leetcode.com/u/t7_b5uwan"><img src="https://img.shields.io/badge/-t7__b5uwan-181717?style=for-the-badge&logo=leetcode&logoColor=FF2E92" /></a>
+<a href="https://github.com/tribhu05"><img src="https://img.shields.io/badge/GitHub-tribhu05-181717?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
+<a href="https://linkedin.com/in/tribhuwan5050"><img src="https://img.shields.io/badge/LinkedIn-tribhuwan5050-181717?style=for-the-badge&logo=linkedin&logoColor=00C9FF" /></a>
+<a href="https://leetcode.com/u/t7_b5uwan"><img src="https://img.shields.io/badge/LeetCode-t7__b5uwan-181717?style=for-the-badge&logo=leetcode&logoColor=FF2E92" /></a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=800&color=00E5FF&background=00000000&center=true&vCenter=true&width=550&lines=%3E%3E%3E+print(%22still+training.+still+shipping.%22)" />
+<i>Still training. Still shipping.</i>
 
 </div>
 
