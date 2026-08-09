@@ -11,9 +11,7 @@
 <table align="center">
 <tr><td>
 
-**Role** — AI/ML Undergraduate<br>
-**Languages** — C++ · Python · Java · JavaScript<br>
-**Focus** — Computer Vision · Deep Learning · DSA · Software Engineering
+<img src="./assets/profile-info.svg" width="100%" />
 
 </td></tr>
 </table>
