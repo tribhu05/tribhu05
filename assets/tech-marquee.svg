@@ -1,0 +1,52 @@
+<svg viewBox="0 0 900 60" xmlns="http://www.w3.org/2000/svg" font-family="JetBrains Mono, monospace">
+  <defs>
+    <filter id="txtGlow" x="-30%" y="-100%" width="160%" height="300%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="fadeMask" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0a0014"/>
+      <stop offset="6%" stop-color="#0a0014" stop-opacity="0"/>
+      <stop offset="94%" stop-color="#0a0014" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0a0014"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="60" fill="#0a0014"/>
+
+  <g filter="url(#txtGlow)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-880 0" dur="14s" repeatCount="indefinite"/>
+
+      <!-- sequence copy 1 -->
+      <text x="0" y="38" font-size="17" font-weight="600">
+        <tspan fill="#00E5FF">Python</tspan><tspan fill="#4c5566">  •  </tspan>
+        <tspan fill="#FF7EC0">C++</tspan><tspan fill="#4c5566">  •  </tspan>
+        <tspan fill="#B084F0">PyTorch</tspan><tspan fill="#4c5566">  •  </tspan>
+        <tspan fill="#00E5FF">TensorFlow</tspan><tspan fill="#4c5566">  •  </tspan>
+        <tspan fill="#FF7EC0">Flask</tspan><tspan fill="#4c5566">  •  </tspan>
+        <tspan fill="#B084F0">Streamlit</tspan><tspan fill="#4c5566">  •  </tspan>
+        <tspan fill="#00E5FF">OpenCV</tspan><tspan fill="#4c5566">  •  </tspan>
+        <tspan fill="#FF7EC0">Git</tspan><tspan fill="#4c5566">  •  </tspan>
+      </text>
+
+      <!-- sequence copy 2 (seamless loop) -->
+      <text x="880" y="38" font-size="17" font-weight="600">
+        <tspan fill="#00E5FF">Python</tspan><tspan fill="#4c5566">  •  </tspan>
+        <tspan fill="#FF7EC0">C++</tspan><tspan fill="#4c5566">  •  </tspan>
+        <tspan fill="#B084F0">PyTorch</tspan><tspan fill="#4c5566">  •  </tspan>
+        <tspan fill="#00E5FF">TensorFlow</tspan><tspan fill="#4c5566">  •  </tspan>
+        <tspan fill="#FF7EC0">Flask</tspan><tspan fill="#4c5566">  •  </tspan>
+        <tspan fill="#B084F0">Streamlit</tspan><tspan fill="#4c5566">  •  </tspan>
+        <tspan fill="#00E5FF">OpenCV</tspan><tspan fill="#4c5566">  •  </tspan>
+        <tspan fill="#FF7EC0">Git</tspan><tspan fill="#4c5566">  •  </tspan>
+      </text>
+    </g>
+  </g>
+
+  <!-- edge fade so the scroll looks seamless, not cut off -->
+  <rect x="0" y="0" width="900" height="60" fill="url(#fadeMask)"/>
+</svg>
