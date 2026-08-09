@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=220&section=header&text=TRIBHUWAN.exe&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%3E%20initializing_ai_engineer.py&descAlignY=62&descSize=18&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=220&section=header&text=Tribhuwan%20Singh&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%3E%20initializing_ai_engineer.py&descAlignY=62&descSize=18&descAlign=50" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=00E5FF&background=00000000&center=true&vCenter=true&multiline=true&width=760&height=140&lines=%3E+loading+model%3A+tribhuwan_singh.pth+...+done;%3E+device%3A+cuda%3A0+%7C+status%3A+training;%3E+domain%3A+computer+vision+%2F+deep+learning;%3E+ready+for+inference." />
 
