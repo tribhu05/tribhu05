@@ -4,7 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=00E5FF&background=00000000&center=true&vCenter=true&width=700&height=50&lines=Computer+Vision+%26+Deep+Learning;Building+end-to-end+deep+learning+applications." />
 
-<img src="./assets/tech-marquee.svg" width="100%" />
 
 </div>
 
@@ -30,6 +29,8 @@
 
 ## 🧬 Tech Stack
 
+<div align="center">
+
 <table width="100%">
 <tr>
 <td width="33%" valign="top" align="center">
@@ -51,6 +52,8 @@
 **Tools & Deployment**
 <br><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" />
+
+</div>
 
 </td>
 </tr>
@@ -78,7 +81,7 @@
 
 <div align="center">
 
-<img src="./assets/project-stats.svg" width="100%" />
+
 
 </div>
 
@@ -131,18 +134,6 @@ MRI tumor classification
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tribhu05&show_icons=true&theme=radical&hide_border=true&bg_color=0a0014&title_color=00E5FF&icon_color=FF2E92&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=tribhu05&theme=radical&hide_border=true&background=0a0014&stroke=8E2DE2&ring=00E5FF&fire=FF2E92&currStreakLabel=00E5FF" width="49%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tribhu05&theme=react-dark&hide_border=true&bg_color=0a0014&color=00E5FF&line=8E2DE2&point=FF2E92" width="98%" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🐍 Contribution Snake
 
