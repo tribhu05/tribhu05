@@ -156,7 +156,7 @@ MRI tumor classification
 
 <div align="center">
 
-<img src="./assets/connect-pulse.svg" width="100%" />
+<a href="https://linkedin.com/in/tribhuwan5050"><img src="./assets/connect-pulse.svg" width="100%" /></a>
 
 
 <i>Still training. Still shipping.</i>
