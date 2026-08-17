@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=220&section=header&text=Tribhuwan%20Singh&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%2FML%20Undergraduate%20%7C%20Software%20Engineer&descAlignY=62&descSize=18&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=220&section=header&text=Tribhuwan%20Singh&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%2FML%20Undergraduate%20%7C%20Full-Stack%20developer&descAlignY=62&descSize=18&descAlign=50" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=00E5FF&background=00000000&center=true&vCenter=true&width=700&height=50&lines=Computer+Vision+%26+Deep+Learning;Building+end-to-end+deep+learning+applications." />
 
@@ -11,11 +11,7 @@
 <br>
 
 <table align="center">
-<tr><td>
 
-<img src="./assets/profile-info.svg" width="100%" />
-
-</td></tr>
 </table>
 
 <br>
@@ -47,14 +43,14 @@
 
 **Deep Learning**
 <br><br>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
 
 </td>
 <td width="33%" valign="top" align="center">
 
 **Tools & Deployment**
 <br><br>
-<img src="https://skillicons.dev/icons?i=flask,git,github,vscode,jupyter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" />
 
 </td>
 </tr>
@@ -121,11 +117,6 @@ MRI tumor classification
 </tr>
 </table>
 
-<div align="center">
-<sub>full source → <a href="https://github.com/tribhu05?tab=repositories">github.com/tribhu05</a></sub>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🎓 Certifications
 
@@ -167,13 +158,6 @@ MRI tumor classification
 
 <img src="./assets/connect-pulse.svg" width="100%" />
 
-<br>
-
-<a href="https://github.com/tribhu05"><img src="https://img.shields.io/badge/GitHub-tribhu05-181717?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
-<a href="https://linkedin.com/in/tribhuwan5050"><img src="https://img.shields.io/badge/LinkedIn-tribhuwan5050-181717?style=for-the-badge&logo=linkedin&logoColor=00C9FF" /></a>
-<a href="https://leetcode.com/u/t7_b5uwan"><img src="https://img.shields.io/badge/LeetCode-t7__b5uwan-181717?style=for-the-badge&logo=leetcode&logoColor=FF2E92" /></a>
-
-<br><br>
 
 <i>Still training. Still shipping.</i>
 
