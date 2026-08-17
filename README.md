@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=220&section=header&text=Tribhuwan%20Singh&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%2FML%20Undergraduate%20%7C%20Full-Stack%20developer&descAlignY=62&descSize=18&descAlign=50" width="100%"/>
+<a href="https://linkedin.com/in/tribhuwan5050"><img src="https://capsule-render.vercel.app/api?type=venom&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=220&section=header&text=Tribhuwan%20Singh&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%2FML%20Undergraduate%20%7C%20Full-Stack%20developer&descAlignY=62&descSize=18&descAlign=50" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=00E5FF&background=00000000&center=true&vCenter=true&width=700&height=50&lines=Computer+Vision+%26+Deep+Learning;Building+end-to-end+deep+learning+applications." />
 
