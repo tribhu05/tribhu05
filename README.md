@@ -145,7 +145,7 @@ MRI tumor classification
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=tribhu05&show_icons=true&theme=radical&hide_border=true&bg_color=0a0014&title_color=00E5FF&icon_color=FF2E92&text_color=c9d1d9" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=tribhu05&theme=radical&hide_border=true&background=0a0014&stroke=8E2DE2&ring=00E5FF&fire=FF2E92&currStreakLabel=00E5FF" width="49%" 
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=tribhu05&theme=radical&hide_border=true&background=0a0014&stroke=8E2DE2&ring=00E5FF&fire=FF2E92&currStreakLabel=00E5FF" width="49%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tribhu05&theme=react-dark&hide_border=true&bg_color=0a0014&color=00E5FF&line=8E2DE2&point=FF2E92" width="98%" />
 
