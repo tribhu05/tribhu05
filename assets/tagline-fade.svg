@@ -1,4 +1,4 @@
-<svg width="700" height="40" viewBox="0 0 700 40" xmlns="http://www.w3.org/2000/svg">
+<svg width="500" height="40" viewBox="0 0 500 40" xmlns="http://www.w3.org/2000/svg">
   <style>
     text {
       font-family: 'JetBrains Mono', monospace;
@@ -8,7 +8,7 @@
     }
   </style>
 
-  <text x="350" y="26" text-anchor="middle" opacity="0">
+  <text x="50%" y="26" text-anchor="middle" opacity="0">
     Computer Vision &amp; Deep Learning
     <animate attributeName="opacity"
       values="0;1;1;0;0"
@@ -17,7 +17,7 @@
       repeatCount="indefinite"/>
   </text>
 
-  <text x="350" y="26" text-anchor="middle" opacity="0">
+  <text x="50%" y="26" text-anchor="middle" opacity="0">
     Building end-to-end deep learning applications.
     <animate attributeName="opacity"
       values="0;0;0;1;1;0"
