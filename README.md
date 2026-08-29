@@ -2,7 +2,7 @@
 
 <a href="https://linkedin.com/in/tribhuwan5050"><img src="https://capsule-render.vercel.app/api?type=venom&color=0:7B2FF7,50:4A00E0,100:00C9FF&height=220&section=header&text=Tribhuwan%20Singh&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%2FML%20Undergraduate%20%7C%20Software%20developer&descAlignY=62&descSize=18&descAlign=50" width="100%"/></a>
 
-<img src="./assets/tagline-fade.svg" width="700" height="40" alt="tagline"/>
+<img src="./assets/tagline-fade.svg" width="500" height="40" alt="tagline"/>
 
 <img src="./assets/cube-3d.svg" width="90" alt="rotating cube"/>
 
