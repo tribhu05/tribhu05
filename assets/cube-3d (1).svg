@@ -1,0 +1,37 @@
+<svg width="140" height="140" viewBox="0 0 140 140" xmlns="http://www.w3.org/2000/svg" style="background:transparent">
+  <defs>
+    <linearGradient id="top" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00C9FF"/>
+      <stop offset="100%" stop-color="#4A00E0"/>
+    </linearGradient>
+    <linearGradient id="left" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8E2DE2"/>
+      <stop offset="100%" stop-color="#4A00E0"/>
+    </linearGradient>
+    <linearGradient id="right" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4A00E0"/>
+      <stop offset="100%" stop-color="#0a0e27"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(70,78)">
+    <g>
+      <!-- top face -->
+      <polygon points="0,-40 35,-20 0,0 -35,-20" fill="url(#top)" stroke="#111827" stroke-width="1">
+        <animate attributeName="fill-opacity" values="1;0.85;1" dur="3s" repeatCount="indefinite"/>
+      </polygon>
+      <!-- left face -->
+      <polygon points="-35,-20 0,0 0,40 -35,20" fill="url(#left)" stroke="#111827" stroke-width="1"/>
+      <!-- right face -->
+      <polygon points="35,-20 0,0 0,40 35,20" fill="url(#right)" stroke="#111827" stroke-width="1"/>
+
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="0 0 0"
+        to="360 0 0"
+        dur="6s"
+        repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
