@@ -1,0 +1,28 @@
+<svg width="700" height="40" viewBox="0 0 700 40" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 20px;
+      font-weight: 600;
+      fill: #22D3EE;
+    }
+  </style>
+
+  <text x="350" y="26" text-anchor="middle" opacity="0">
+    Computer Vision &amp; Deep Learning
+    <animate attributeName="opacity"
+      values="0;1;1;0;0"
+      keyTimes="0;0.1;0.45;0.55;1"
+      dur="6s"
+      repeatCount="indefinite"/>
+  </text>
+
+  <text x="350" y="26" text-anchor="middle" opacity="0">
+    Building end-to-end deep learning applications.
+    <animate attributeName="opacity"
+      values="0;0;0;1;1;0"
+      keyTimes="0;0.5;0.55;0.65;0.95;1"
+      dur="6s"
+      repeatCount="indefinite"/>
+  </text>
+</svg>
