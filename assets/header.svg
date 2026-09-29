@@ -4,13 +4,13 @@
 
   <text x="400" y="70" text-anchor="middle"
         font-family="Segoe UI, Verdana, sans-serif" font-weight="800" font-size="42"
-        fill="#0A1F44" stroke="#FFFFFF" stroke-width="2.5" paint-order="stroke fill">
+        fill="#FFFFFF" stroke="#0A1F44" stroke-width="2.5" paint-order="stroke fill">
     Tribhuwan Singh
   </text>
 
   <text x="400" y="100" text-anchor="middle"
         font-family="Segoe UI, Verdana, sans-serif" font-weight="600" font-size="16"
-        fill="#0A1F44" stroke="#FFFFFF" stroke-width="1.2" paint-order="stroke fill">
+        fill="#FFFFFF" stroke="#0A1F44" stroke-width="1.2" paint-order="stroke fill">
     AI/ML Undergraduate | Aspiring AI-Engineer
   </text>
 </svg>
